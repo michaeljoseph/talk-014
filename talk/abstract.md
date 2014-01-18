@@ -6,11 +6,15 @@ Audience: Professional or amateur word smiths and crafters.
 
 * Did you know that plain text is the only file format that every computer
   can parse?
+
 ![plain-text](resources/plain-text.png)
 
 * 9 out 10 Microsoft Word users tested, showed a decline in neural activity
   in the parts of the brain that governs one's self presentation instinct.
   They _literally_ lose the will to live.
+
+![ie-murder](resources/ie-murder.jpg)
+![word-murder](resources/word-murder.jpg)
 
 ## Summary
 
