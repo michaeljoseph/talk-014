@@ -1,5 +1,5 @@
 # References
 
-[title][0]
+[Plain Text][0]
 
-[0]:url
+[0]:http://en.wikipedia.org/wiki/Plain_text
