@@ -18,7 +18,7 @@ Audience: Professional or amateur word smiths and crafters.
 
 ## Summary
 
-This talk will conduct an opinionated tour o the current state of the art in
+This talk will conduct an opinionated tour of the current state of the art in
 text manipulation programs, workflows and associated (opinionated) best practices
 (where best means efficient).
 
